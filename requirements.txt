@@ -1,0 +1,4 @@
+matplotlib==3.8.4
+pandas==2.0.2
+Requests==2.31.0
+streamlit==1.17.0
